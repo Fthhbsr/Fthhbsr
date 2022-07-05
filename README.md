@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fatih-baser) <p align="left">
 
-<img src="https://komarev.com/ghpvc/?username=fatih-baser" alt="visitor counter" width="15%"/> 
+<img src="https://komarev.com/ghpvc/?username=fthhbsr" alt="visitor counter" width="15%"/> 
 </p>
 
 ### What I'm using ? 🛠
